@@ -1,0 +1,10 @@
+wair("0.2")
+-- Combined Script
+
+-- Load and execute the first script
+loadstring(game:HttpGet("https://paste.ee/r/QxwYiCSF"))()
+
+-- Load and execute the second script
+loadstring(game:HttpGet("https://paste.ee/r/TFi8CioE"))()
+
+  

